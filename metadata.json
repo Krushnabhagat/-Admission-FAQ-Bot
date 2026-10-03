@@ -1,0 +1,7 @@
+{
+  "name": "EduGuide AI - Smart Admission Assistant & Copilot",
+  "description": "Comprehensive AI admission copilot for students and parents: course recommendation, eligibility, cutoffs, document verification, scholarship finder, college comparison, and emergency problem solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
